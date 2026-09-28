@@ -73,7 +73,7 @@ Built entirely in Java 17 with an asynchronous, reactive architecture, SniffNet 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/SniffNet.git
+git clone https://github.com/stackvoided/SniffNet.git
 cd SniffNet
 
 # Build Debug APK
@@ -119,9 +119,3 @@ SniffNet operates strictly on-device. Intercepted packet metadata is processed e
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
-
----
-
-### GitHub Topics
-
-`sniffnet` `android` `java` `vpnservice` `network-sniffer` `http-inspector` `packet-capture` `rxjava3` `traffic-monitor`
